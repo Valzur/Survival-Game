@@ -30,5 +30,6 @@ The game is ultimately hoping to fill that itch for creativity, engineering, and
 No releases yet, the game is still under construction
 
 ## Demo
-![demo](https://i.ibb.co/WP3S1P0/Survival-Main-Scene-Windows-Mac-Linux-Unity-2021-3-0f1-Personal-DX11-2022-08-04-19-11-16-5.gif)
+
+![notLogo](https://i.ibb.co/WP3S1P0/Survival-Main-Scene-Windows-Mac-Linux-Unity-2021-3-0f1-Personal-DX11-2022-08-04-19-11-16-5.gif)
 ![Logo](https://i.ibb.co/wWpzTnk/Light-bg-LOGO.png)
